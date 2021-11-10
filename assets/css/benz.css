@@ -1,0 +1,122 @@
+
+body{
+    margin: 0px;
+}
+*{
+    font-family: cursive;
+}
+a{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    height: 110px;
+    background: black;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    height: 110px;
+    background: black;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 0px 20px;
+}
+.column-header{
+display: flex;
+}
+.column-header img{
+    padding: 20px 20px;
+}
+.column-header a{
+        padding-top: 56px;
+        padding-left: 40px;
+}
+.column-headerright{
+    display: flex;
+    align-items: flex-end;
+    width: 78%;
+    height: 100%;
+    flex-direction: column;
+}
+.row-headertop{
+    display: flex;
+    width: 100%;
+    /* height: 46%; */
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: flex-end;
+}
+.row-headerbutton{
+    display: flex;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    
+   
+}
+.super-menu{
+    padding: 20px;
+}
+#d{
+    padding-right: 38px;
+}
+span{
+    display: inline-block;
+    padding-top: 10px;
+}
+
+main{
+    height: 1200px;
+}
+.slider img{
+    width: 100%;
+
+
+}
+ul{
+    
+}
+.brandhub-cta{
+   
+    position: relative;
+   
+}
+.benz{
+    width: 150;
+    height: 60px;
+    position: absolute;
+    bottom: 198px;
+    right: 90px;
+    z-index: 100;
+}
+.benz1{
+    width: 150;
+    height: 60px;
+    position: absolute;
+    bottom: 160px;
+    right: 80px;
+}
+.benz2{
+    width: 150;
+    height: 60px;
+    position: absolute;
+    bottom: 135px;
+    right: 100px;
+}
+
+
+
+
+
+
+
+
+
+footer{
+    height: 150px;
+    background: black;
+}
