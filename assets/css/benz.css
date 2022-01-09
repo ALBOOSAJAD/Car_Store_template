@@ -131,8 +131,7 @@ main{
     width: 100%;
     background: black;
     height: 700px;
-    color: white;
-    
+    color: white; 
 }
 .super{
     margin-top: -22px;
